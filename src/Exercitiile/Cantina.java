@@ -1,3 +1,5 @@
+package Exercitiile;
+
 import java.util.Scanner;
 
 public class Cantina {
